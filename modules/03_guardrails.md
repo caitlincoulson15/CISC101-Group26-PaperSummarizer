@@ -56,3 +56,4 @@ Prevent hallucinations, enforce evidence rules, and handle missing/short section
 ## Output
 - Warnings and evidence-mode messages surface alongside section summaries (Module 02).
 - Guardrails decisions are reflected in the final rendering (Module 04).
+
