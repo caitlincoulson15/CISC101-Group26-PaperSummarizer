@@ -7,7 +7,6 @@ Apply internal **if/else** logic
 - If the Expert Summary longer than 100 word --> Ensure the summary focus on precision, terminology, and key findings from each subsection and within 100 words. 
 - If the Lay Summary longer than 100 word --> Ensure the summary keeping fasctual accuracy from Expert Summary , in plain laungue, using analogies ,simple explanation and within 100 words.
 
-
 # Module 03: Guardrails
 
 ## Change Log
